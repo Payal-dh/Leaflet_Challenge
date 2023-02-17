@@ -19,4 +19,8 @@ The instructions for this activity are broken into two parts:
       - The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON FeedLinks to an external site. page and choose a dataset to visualize.
   2. When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
 
-      
+## Part 2: Gather and Plot More Data (Optional)
+Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplatesLinks to an external site..
+This part is completely optional; you can complete this part as a way to challenge yourself and boost your new skills.
+### The following image is an example screenshot of what you should produce:      
+![Option2](https://user-images.githubusercontent.com/116124181/219541283-0f9f5b12-8b3a-4218-8da2-f823b2bcf1f7.png)
